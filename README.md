@@ -28,6 +28,6 @@ For this project, I worked to understand the results of an A/B test run by an e-
 - The country of the user did not impact the rate of conversion between the two pages
 
 ### Credits
-*	Udacity course material
-*	Stack overflow when encountered some errors.
-*	Random web forums
+-	Udacity course material
+- Stack overflow when encountered some errors.
+-	Random web forums
